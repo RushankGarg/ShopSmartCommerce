@@ -76,10 +76,10 @@ The project uses the **Online Shoppers Purchasing Intention Dataset**, which con
 
 ## Future Improvements
 
-- Compare additional machine learning models
-- Improve feature engineering
-- Deploy the model using Flask or FastAPI
-- Build a simple web interface for predictions
+- Compare additional machine learning models.
+- Improve feature engineering.
+- Deploy the model using Flask or FastAPI.
+- Build a simple web interface for predictions.
 
 ## Author
 
